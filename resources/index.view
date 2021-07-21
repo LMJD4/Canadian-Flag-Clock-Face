@@ -1,0 +1,17 @@
+<svg class="face">
+  <image id = "blueFlag" class = "flags" href="images/flagColors/flagBlue.jpg"/>
+  <image id = "greenFlag" class = "flags" href="images/flagColors/flagGreen.jpg"/>
+  <image id = "orangeFlag" class = "flags" href="images/flagColors/flagOrange.jpg"/>
+  <image id = "purpleFlag" class = "flags" href="images/flagColors/flagPurple.jpg"/>
+  <image id = "redFlag" href="images/flagColors/flagRed.jpg"/>
+  <image id = "whiteFlag" class = "flags" href="images/flagColors/flagWhite.jpg"/>
+  <image id = "calIcon" href = "images/calIcon.jpg" height = "7%" width = "7%"/>
+  <image id = "heartRateIcon" href = "images/heartRate.jpg" height = "8%" width = "8%"/>
+  <image id = "stepsIcon" href = "images/steps.jpg" height = "8%" width = "8%"/>
+  <text id="time" />
+  <text id = "seconds"/>
+  <text id = "date"/>
+  <text id = "heartrate"/>
+  <text id = "calories"/>
+  <text id = "steps"/>
+</svg>
