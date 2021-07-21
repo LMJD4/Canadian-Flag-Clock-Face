@@ -1,0 +1,26 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~6.0.0"
+  },
+  "fitbit": {
+    "appUUID": "1bb9f7c4-44de-4f70-991f-0f9f4fdd5153",
+    "appType": "clockface",
+    "appDisplayName": "CanadaClockFace",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "atlas",
+      "vulcan"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "CanadaClockFace"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}
