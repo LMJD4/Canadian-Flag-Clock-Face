@@ -1,0 +1,71 @@
+.flags {
+  visibility: hidden;
+}
+#time {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 30%;
+  fill: white;
+}
+
+#seconds {
+  font-size: 30;
+  font-family: System-Bold;
+  x: 78%;
+  y: 30%;
+  fill: white;
+}
+
+#date {
+  font-size: 20;
+  font-family: System-Light;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 10%;
+  fill: white;
+}
+
+#heartrate {
+  font-size: 30;
+  font-family: System-Light;
+  text-anchor: middle;
+  x: 53%;
+  y: 90%;
+  fill: white;
+}
+
+#steps {
+  font-size: 30;
+  font-family: System-Light;
+  text-anchor: middle;
+  text-length: 25;
+  x: 81%;
+  y: 90%;
+  fill: white;
+}
+
+#calories {
+  font-size: 30;
+  font-family: System-Light;
+  text-anchor: middle;
+  text-length: 20;
+  x: 25%;
+  y: 90%;
+  fill: white;
+}
+#calIcon {
+  x: 8%;
+  y: 84%;    
+}
+#heartRateIcon {
+  x: 40%;
+  y: 84%;
+}
+#stepsIcon {
+  x: 62%;
+  y: 84%;
+}
